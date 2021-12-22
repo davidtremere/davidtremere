@@ -1,4 +1,6 @@
-### Hi there 👋
+# David Walan 
+
+[linkedim Badge](https://www.linkedin.com/in/david-walan-00703821a/)
 
 <!--
 **davidtremere/davidtremere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
