@@ -14,7 +14,7 @@
 
 <p>
 
-Estudando/trabalhando na **David**<br/>
+Estudando/trabalhando na **QA**<br/>
 
 Eu sou QA  **engeheiro de Qualidade**.
 
